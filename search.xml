@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>common</title>
+    <url>/2020/12/12/wiki/common/</url>
+    <content><![CDATA[<blockquote>
+<p>我的快乐无非就是这样，纵然能力不够、现实复杂，但我依然会全力以赴。</p>
+</blockquote>
+<a id="more"></a>
+<h3 id="words"><a href="#words" class="headerlink" title="words"></a>words</h3><ul>
+<li>MIPS</li>
+<li>RISC vs. CISC Architectures: Which one is better?</li>
+</ul>
+<h3 id="Reading"><a href="#Reading" class="headerlink" title="Reading"></a>Reading</h3><ul>
+<li><a href="https://stackoverflow.com/questions/6757868/map-clear-vs-new-map-which-one-will-be-better" target="_blank" rel="noopener">Map.clear() vs new Map : Which one will be better? </a></li>
+<li><a href="https://stackoverflow.com/questions/33215539/foreach-with-jsonarray-and-jsonobject" target="_blank" rel="noopener">Foreach with JSONArray and JSONObject</a></li>
+<li><a href="https://elemental.medium.com/soon-you-might-be-able-to-diagnose-your-kids-ear-infection-with-a-smartphone-b21b25f7bbbb" target="_blank" rel="noopener">Soon You Might Be Able to Diagnose Your Kid’s Ear Infection With a Smartphone</a></li>
+<li><a href="https://www.trustedreviews.com/opinion/oled-vs-led-lcd-2924602" target="_blank" rel="noopener">OLED vs LED LCD: the best display tech for you</a></li>
+</ul>
+<h3 id="General"><a href="#General" class="headerlink" title="General"></a>General</h3><h4 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h4><ul>
+<li>第三方库(libs目录)，引入的库命名加上版本号</li>
+<li>插件 plugins</li>
+<li>public 公共静态资源</li>
+<li>components 组件目录 </li>
+</ul>
+<h4 id="Naming"><a href="#Naming" class="headerlink" title="Naming"></a>Naming</h4><ul>
+<li>JavaDevelop / JavaDoc / JavaCodes</li>
+<li>backup / Codes / </li>
+<li>books / Java-book / JVM-book / Linux-book / Office-book / Hack-book / Read-book</li>
+<li>totalDoc / Picture / Tinyspot / </li>
+<li>packages / JavaTools / OS / Database / miniTools </li>
+<li>Downloads / browser / thunder / baidu</li>
+<li>Video/ micro / Audio / Music </li>
+<li>2018年工作总结_xx部_Tinyspot_20190101_V1.0.docx</li>
+<li>SpringMVAPIv1.0-20180101-Tinyspot.docx “文件名-版本-时间-修改人”</li>
+<li>{typedir}/{Y}/{M}/{D}/{aid}.html</li>
+</ul>
+<h4 id="Explorer"><a href="#Explorer" class="headerlink" title="Explorer"></a>Explorer</h4><ul>
+<li>显示文件扩展名</li>
+<li>显示隐藏的文件、文件夹和驱动器</li>
+<li>详细信息</li>
+<li>应用到文件夹</li>
+</ul>
+<h3 id="通用简写表"><a href="#通用简写表" class="headerlink" title="通用简写表"></a>通用简写表</h3><ul>
+<li>pub / src / dev / cpy / btn /</li>
+<li>DB / addr / avg / calc / obj / num / sel</li>
+<li>max / mid / mul / </li>
+</ul>
+<h3 id="语法说明："><a href="#语法说明：" class="headerlink" title="语法说明："></a>语法说明：</h3><p>ctrl+x ctrl和x键同时按<br>x &amp; y x操作后，进行y操作<br>x | y x操作或y操作<br>(x) 分组x是一个整体<br>[x] x是可选操作<br>x, y x操作, y操作（两个类似操作写到一行）</p>
+]]></content>
+      <categories>
+        <category>wiki</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>readme</title>
+    <url>/2050/12/12/wiki/README/</url>
+    <content><![CDATA[<blockquote>
+<p>The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.</p>
+</blockquote>
+<a id="more"></a>
+
+<h3 id="Table-of-Contents"><a href="#Table-of-Contents" class="headerlink" title="Table of Contents"></a>Table of Contents</h3><ul>
+<li><a href="#guide">Guide</a></li>
+<li><a href="#develop">Develop</a></li>
+</ul>
+<h3 id="Guide"><a href="#Guide" class="headerlink" title="Guide"></a>Guide</h3><ul>
+<li>【 <a href="https://google.github.io/styleguide/javaguide.html" target="_blank" rel="noopener">Google Java Style Guide</a> 】 【 <a href="https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/" target="_blank" rel="noopener">Alibaba Java Coding Guidelines</a> 】</li>
+<li>【 <a href="https://medium.com/" target="_blank" rel="noopener">Medium.com</a> 】 【Office Web Viewer】 【Chrome keyboard Help】  【 <a href="https://shortcutworld.com/" target="_blank" rel="noopener">Shortcutworld</a> 】</li>
+<li>【 <a href="https://developers.google.com/" target="_blank" rel="noopener">developers.google.com</a> 】 【<a href="">Google Ocean</a>】</li>
+</ul>
+<h3 id="Develop"><a href="#Develop" class="headerlink" title="Develop"></a>Develop</h3><ul>
+<li>doc<ul>
+<li>【 <a href="https://cloud.spring.io/spring-cloud-gateway/reference/html/" target="_blank" rel="noopener">Spring Cloud Gateway</a> 】 【 <a href="https://cloud.spring.io/spring-cloud-netflix/reference/html/" target="_blank" rel="noopener">Spring Cloud Netflix</a> 】 【 <a href="https://github.com/lingcoder/onJava8/" target="_blank" rel="noopener">onJava8-GitHub</a> 】 【 <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets" target="_blank" rel="noopener">intellij-rainbow-brackets</a> 】 </li>
+<li>【 <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="_blank" rel="noopener">Data Structure Visualization</a> 】 【 <a href="http://json.org/json-zh.html" target="_blank" rel="noopener">json.org</a> 】</li>
+<li>【 <a href="https://www.tutorialspoint.com/yaml/yaml_introduction.htm" target="_blank" rel="noopener">YAML - Introduction</a> 】</li>
+</ul>
+</li>
+<li>Website<ul>
+<li>【 <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a> 】 【 <a href="https://help.github.com/en" target="_blank" rel="noopener">GitHub Help</a> 】 【 <a href="https://shields.io/" target="_blank" rel="noopener">Github Badge</a> 】 【 <a href="https://www.codeproject.com/" target="_blank" rel="noopener">CodeProject</a> 】</li>
+<li>【 <a href="https://stackoverflow.com/" target="_blank" rel="noopener">Stack Overflow</a> 】 【 <a href="https://cloud.google.com/blog/" target="_blank" rel="noopener">Google+ Communities</a> 】 【 <a href="https://www.baeldung.com/" target="_blank" rel="noopener">Baeldung</a> 】 【 <a href="https://segmentfault.com" target="_blank" rel="noopener">segmentfault</a> 】</li>
+<li>【 <a href="https://books.google.com/" target="_blank" rel="noopener">books.google.com</a> 】 【 <a href="https://drive.google.com/drive/" target="_blank" rel="noopener">drive.google.com</a> 】</li>
+<li>【 <a href="https://sourceforge.net/" target="_blank" rel="noopener">SOURCEFORGE</a> 】 【 <a href="https://www.tableau.com" target="_blank" rel="noopener">Tableau</a> 】</li>
+<li>【 <a href="https://www.autohotkey.com/docs/Program.htm" target="_blank" rel="noopener">AutoHotkey</a> 】 【 <a href="https://zh.forvo.com/guides/" target="_blank" rel="noopener">FORVO</a> 】 【 <a href="https://news.ycombinator.com/" target="_blank" rel="noopener">Hacker News</a> 】 【 <a href="https://unbug.github.io/codelf/" target="_blank" rel="noopener">CODELF</a> 】 【 <a href="https://www.sitepoint.com/" target="_blank" rel="noopener">SitePoint</a> 】</li>
+<li>【 <a href="https://www.whitehouse.gov" target="_blank" rel="noopener">The White House</a> 】</li>
+</ul>
+</li>
+<li>Online<ul>
+<li>【 <a href="https://www.json.cn/" target="_blank" rel="noopener">json.cn</a> 】 【 <a href="https://www.bejson.com/explore/index_new/" target="_blank" rel="noopener">bejson</a> 】 【 <a href="https://regexr.com/" target="_blank" rel="noopener">regexr.com</a> 】</li>
+<li>【 <a href="https://www.processon.com/" target="_blank" rel="noopener">ProcessOn</a> 】 【 <a href="https://codepen.io" target="_blank" rel="noopener">CodePen</a> 】 </li>
+<li>【 <a href="https://tinypng.com/" target="_blank" rel="noopener">TinyPNG</a> 】 【 <a href="https://smallpdf.com/" target="_blank" rel="noopener">Smallpdf</a> 】</li>
+<li>【 <a href="https://www.google.com/imghp?hl=en" target="_blank" rel="noopener">goole-img</a> 】 【 <a href="http://dict.cn/" target="_blank" rel="noopener">海词</a> 】 【<a href="http://www.iciba.com" target="_blank" rel="noopener">www.iciba.com</a>】</li>
+<li>【 <a href="https://www.allacronyms.com/" target="_blank" rel="noopener">All Acronyms-字母缩写查询</a> 】</li>
+<li>【 <a href="https://www.apowersoft.cn/phone-mirror" target="_blank" rel="noopener">Apower-mirror</a> 】</li>
+</ul>
+</li>
+<li>API<ul>
+<li>【 <a href="https://docs.oracle.com/javase/7/docs/api/" target="_blank" rel="noopener">Java-API</a> 】 【 <a href="https://tomcat.apache.org/tomcat-7.0-doc/servletapi/" target="_blank" rel="noopener">Servlet-API</a> 】 【 <a href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/" target="_blank" rel="noopener">Spring-API</a> 】 【 <a href="http://maven.apache.org/ref/3.6.0/maven-plugin-api/" target="_blank" rel="noopener">Maven-API</a> 】</li>
+<li>【 <a href="https://swagger.io/specification/" target="_blank" rel="noopener">Swagger UI</a> 】 【 <a href="https://hellosean1025.github.io/yapi/" target="_blank" rel="noopener">YApi</a> 】 【 <a href="http://www.heweather.com/documents" target="_blank" rel="noopener">和风天气网</a> 】 【 <a href="http://www.fly63.com/nav" target="_blank" rel="noopener">fly63</a> 】</li>
+</ul>
+</li>
+<li>JDT<ul>
+<li>【IDEA】 【Sublime Text】 【 Fiddler 】 【Navicat】 【SQLyog】</li>
+<li>【SourceTree】 【GitLab】 【 <a href="https://logback.qos.ch/" target="_blank" rel="noopener">Lombok</a> 】 【 <a href="https://jersey.github.io/" target="_blank" rel="noopener">Jersey</a> 】 【 <a href="https://git-scm.com/docs" target="_blank" rel="noopener">Git</a> 】 【 <a href="http://gitblit.com" target="_blank" rel="noopener">GitBlit</a> 】</li>
+<li>【MongoDB Compass】 【RedisDesktopManager】</li>
+<li>【Putty】 【MobaXterm】 【Source Tree】 【 Postman 】 【 wkhtmltopdf 】 【钉钉RC】</li>
+<li>【VSCode】</li>
+</ul>
+</li>
+<li>ELK Stack: Elasticsearch / Logstash / Kibana</li>
+</ul>
+<h3 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h3><ul>
+<li>【 snipaste 】</li>
+<li>【 <a href="https://showmore.com/" target="_blank" rel="noopener">ShowMore</a> / <a href="https://showmore.com/zh/" target="_blank" rel="noopener">zh</a> 】 【 <code>ShowMore(by wechat)</code> 】 【 Apowersoft - 「ApowerMirror」 】  </li>
+<li>【everything】 【天若OCR】 【 冰点文库 】 【 <a href="http://www.downfi.com/video/" target="_blank" rel="noopener">小视频下载</a> 】 【 <a href="https://www.videograbber.net/" target="_blank" rel="noopener">videograbber</a> 】</li>
+<li>【 Typora 】 【 <code>PxCook</code> 】 【 <a href="https://potplayer.daum.net/" target="_blank" rel="noopener">PotPlayer</a> 】 【 VLC player】 【 <a href="https://www.internetdownloadmanager.cn/buy" target="_blank" rel="noopener">IDM Integration Module</a> 】</li>
+<li>数据恢复软件 【Recuva】 【EasyCovery by U盘】</li>
+<li>「GifCam-git录制」   「Bandzip 支持Windows与Mac」 </li>
+<li>【 <a href="http://www.wox.one/" target="_blank" rel="noopener">Wox</a> 】 【 <a href="http://www.yingdev.com/projects/wgestures" target="_blank" rel="noopener">WGestures</a> 】 【 <a href="https://www.ratatype.com/" target="_blank" rel="noopener">RATATYPE</a> 】 【 <a href="https://www.bmob.cn/" target="_blank" rel="noopener">Bmob</a> 】</li>
+<li>【 Lodop 】</li>
+<li>web<ul>
+<li>【 在线工具箱 】 【 】</li>
+<li>【 <a href="https://docs.gitbook.com/content-editing/embeds" target="_blank" rel="noopener">GitBook-by Google</a> 】 【 <a href="https://www.favicon.cc/" target="_blank" rel="noopener">favicon.cc</a> 】</li>
+</ul>
+</li>
+</ul>
+<h3 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h3><ul>
+<li>OS: 【 <a href="https://rufus.ie/" target="_blank" rel="noopener">Rufus</a> 】 【 <a href="http://www.tongyongpe.com/" target="_blank" rel="noopener">通用PE</a> 】 【 <a href="http://www.udashi.com/" target="_blank" rel="noopener">U大师</a> 】</li>
+<li><a href="http://www.excelhome.net/" target="_blank" rel="noopener">Excelhome</a></li>
+<li><a href="https://msdn.itellyou.cn/" target="_blank" rel="noopener">MSDN</a></li>
+<li><a href="http://meihua.docer.com/" target="_blank" rel="noopener">PPT美化大师</a></li>
+<li>IP<ul>
+<li><a href="http://ping.chinaz.com/" target="_blank" rel="noopener">ping</a> 国内 or 国外</li>
+<li>【 <a href="http://coolaf.com/tool/port" target="_blank" rel="noopener">port-china</a> 】 【 <a href="https://www.yougetsignal.com/tools/open-ports" target="_blank" rel="noopener">port-abroad</a> 】</li>
+<li>【 <a href="https://www.vultr.com/" target="_blank" rel="noopener">VULTR</a> 】 【 <a href="https://bwh8.net/" target="_blank" rel="noopener">Bandwagonhost1</a> / <a href="https://bandwagonhost.com" target="_blank" rel="noopener">Bandwagonhost2</a> 】</li>
+</ul>
+</li>
+</ul>
+<h3 id="Chrome"><a href="#Chrome" class="headerlink" title="Chrome"></a>Chrome</h3><ul>
+<li><code>Octotree</code> / <code>Postman</code> / <code>The Great Suspender</code> / <code>Wappalyzer</code> / <code>Video Speed Controller</code></li>
+<li><code>Dark Reader</code> / <code>Charset</code> / <code>Website Analyzer</code> / <code>Axure</code> / <code>iciba</code> / <code>Resolution Test</code> / <code>Nimbus 截幕 &amp; 屏幕录像机</code> / <code>Grammarly for Chrome</code></li>
+<li>【 SourceGraph(Github代码相互跳转) 】 【 <code>Tampermonkey</code> <a href="https://greasyfork.org/zh-CN/scripts" target="_blank" rel="noopener">脚本</a> 】</li>
+</ul>
+<h3 id="Learn"><a href="#Learn" class="headerlink" title="Learn"></a>Learn</h3><ul>
+<li><a href="https://mp.weixin.qq.com/s/F0a-RSWAQv6veuKTMhPZ4Q" target="_blank" rel="noopener">面试现场第一季合集</a></li>
+<li><a href="https://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/" target="_blank" rel="noopener">Nick Craver-Stack Overflow</a></li>
+<li><a href="https://blog.csdn.net/jianyuerensheng/article/details/51263709" target="_blank" rel="noopener">排序算法</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/1424372" target="_blank" rel="noopener">撸一个 JSON 解析器</a></li>
+</ul>
+<h3 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h3><ul>
+<li><a href="https://github.com/antvis/g6" target="_blank" rel="noopener">G6</a></li>
+<li><a href="https://github.com/code4wt/JSONParser" target="_blank" rel="noopener">JSONParser</a></li>
+<li><a href="https://github.com/waylau/github-help" target="_blank" rel="noopener">github-help</a></li>
+<li><a href="https://lpd-ios.github.io/2017/07/11/GitHub-Wiki-Introduction/" target="_blank" rel="noopener">GitHub Wiki 页面的添加和设置</a></li>
+</ul>
+<h3 id="Tinyspot"><a href="#Tinyspot" class="headerlink" title="Tinyspot"></a>Tinyspot</h3><ul>
+<li><a href="https://hoochanlon.github.io/fq-book/#/" target="_blank" rel="noopener">这本书能让你连接互联网</a></li>
+<li><code>Revolution in The Valley: The Insanely Great Story of How the Mac Was Made</code></li>
+<li><a href="https://showroom.littleworkshop.fr/" target="_blank" rel="noopener">showroom</a></li>
+<li><a href="http://iq.200.net/" target="_blank" rel="noopener">IQ测试</a></li>
+<li><a href="http://hz.edushi.com/" target="_blank" rel="noopener">三维杭州地图</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/21767308" target="_blank" rel="noopener">带你逛西雅图活电脑博物馆</a></li>
+<li><a href="https://pandownload.com/faq/cookie.html" target="_blank" rel="noopener">使用cookie登录网盘账号 | PanDownload</a></li>
+<li>Google算法解析系列之HillTop算法</li>
+<li><a href="https://www.jianshu.com/p/21c199e29d5e" target="_blank" rel="noopener">谷歌图片搜索–被忽视的流量和外链宝藏</a></li>
+<li><a href="https://zhuanlan.zhihu.com/retrocomputing" target="_blank" rel="noopener">古董电脑室</a></li>
+</ul>
+<h3 id="me"><a href="#me" class="headerlink" title="me"></a>me</h3><ul>
+<li><a href="https://segmentfault.com/a/1190000017895321" target="_blank" rel="noopener">有哪些鲜为人知，但是很有意思的网站？</a></li>
+<li>picture: 【 <a href="https://www.nicepik.com/" target="_blank" rel="noopener">Nicepik</a> 】 【 <a href="http://www.lanrentuku.com/" target="_blank" rel="noopener">lanrentuku</a> 】 【 <a href="https://pixabay.com" target="_blank" rel="noopener">pixabay</a> 】 【 <a href="https://cn.freeimages.com/" target="_blank" rel="noopener">freeimages</a> 】</li>
+<li>music<ul>
+<li><a href="http://www.51ape.com/" target="_blank" rel="noopener">51ape</a></li>
+</ul>
+</li>
+<li>references<ul>
+<li><a href="https://codecondo.com/programming-communities/" target="_blank" rel="noopener">14 Programming Communities for Developers, Hackers</a></li>
+<li>[How to Use Swagger UI for API Testing](How to Use Swagger UI for API Testing)</li>
+<li><a href="http://www.dnbwg.com/" target="_blank" rel="noopener">网页里的电脑博物馆</a></li>
+<li>【 <a href="https://github.com/opencv/opencv" target="_blank" rel="noopener">OpenCV</a> 】 【 <a href="http://suo.im/" target="_blank" rel="noopener">短链接</a> 】 【 <a href="https://www.umu.cn/model/home" target="_blank" rel="noopener">UMU互动学习平台</a> 】</li>
+</ul>
+</li>
+<li>other<ul>
+<li>【 <a href="https://www.linkedin.com/" target="_blank" rel="noopener">LinkedIn</a> 】 【 <a href="http://tech2ipo.com/" target="_blank" rel="noopener">创见</a> 】 【 Dorado标注工具 】</li>
+<li>【 <a href="https://cybermap.kaspersky.com/" target="_blank" rel="noopener">卡巴斯基</a> 】 【 <a href="http://hackcode.ishoulu.com/scp/" target="_blank" rel="noopener">hackcode</a> 】 【 <a href="http://geektyper.com/" target="_blank" rel="noopener">geektyper</a> 】</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>wiki</category>
+      </categories>
+  </entry>
+</search>
